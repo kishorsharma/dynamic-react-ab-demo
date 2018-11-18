@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 /* CUSTOM CODE */
 (function() {
-  console.log('Google tag manager is working')
+  console.log('VWO is working')
 
   function getUserPreference() {
     return new Promise(function(resolve, reject) {
